@@ -1,5 +1,8 @@
 # BOOMER SHOOTER
 
+> ⚠️ **アップデートの頻度が非常に高いため、ここに掲載されている内容（スクリーンショット・説明文など）のほとんどが古い場合がございます。** ゲームは日本語と英語の両方に対応しています。
+> ⚠️ **This game is updated very frequently, so most of the content shown here (screenshots, descriptions, etc.) may already be outdated.** The game is fully playable in both English and Japanese.
+
 Godot製レトロFPS (Doom/Quake風)。
 
 ## 遊び方
